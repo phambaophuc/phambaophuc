@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://fb.com/profile.php?id=100034355380322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pham phuc" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/123phuc27602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="123phuc27602" height="30" width="40" /></a>
+<a href="https://leetcode.com/123phuc27602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="123phuc27602" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
