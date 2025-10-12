@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Bao Phuc</h1>
-<h3 align="center">I'm a software engineer from Vietnam</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phambaophuc" alt="phambaophuc" /></a> </p>
+<h3 align="center">I'm a Software Engineer from Vietnam</h3>
 
 - 💬 Ask me about **Programming**
 
@@ -15,7 +13,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <strong>Programming Languages:</strong><br>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
@@ -29,7 +26,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <br><br>
-  <strong>Frontend:</strong><br>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -52,7 +48,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <br><br>
-  <strong>Backend:</strong><br>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -63,7 +58,6 @@
     <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <br><br>
-  <strong>Database:</strong><br>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
@@ -77,7 +71,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
   <br><br>
-  <strong>Tools & Other:</strong><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
