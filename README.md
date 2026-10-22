@@ -123,7 +123,3 @@
 <a href="mailto:pb.phuc2706@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
 
 </div>
-
-<!-- badge-auto: badge-pr-1 pr1 -->
-
-<p align="center"><sub>Pham Bao Phuc</sub></p>
