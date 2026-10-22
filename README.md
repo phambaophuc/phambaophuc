@@ -1,82 +1,129 @@
-<h1 align="center">Hi 👋, I'm Pham Bao Phuc</h1>
-<h3 align="center">I'm a Software Engineer from Vietnam</h3>
+<div align="center">
 
-- 💬 Ask me about **Programming**
+<!-- Animated Living Identity Banner -->
+<!---->
 
-- 📫 How to reach me **pb.phuc2706@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/123phuc27602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="123phuc27602" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/123phuc27602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="123phuc27602" height="30" width="40" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+Pham+Bao+Phuc+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <br><br>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <br><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <br><br>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <br><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phambaophuc&show_icons=true&locale=en&layout=compact" alt="phambaophuc" /></p>
+<img src="https://komarev.com/ghpvc/?username=phambaophuc&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/phambaophuc?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/phambaophuc?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+
+</div>
+
+---
+
+## 🐱 About Me
+
+<div align="center">
+
+<!---->
+
+</div>
+
+## ⚔️ `> cat inventory.txt` — Skill Tree
+
+<div align="center">
+
+**🧠 Languages**
+
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
+
+**🌐 Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
+
+**🗄️ Databases & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
+
+**🧩 DSA & Problem Solving**
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 `> ./stats --player=phambaophuc`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phambaophuc&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phambaophuc&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+
+<img src="https://streak-stats.demolab.com?user=phambaophuc&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+
+</div>
+
+---
+
+## 🏆 `> unlock --achievements`
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=phambaophuc&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+## 🎯 `> cat current_quests.log`
+
+```diff
++ [ACTIVE]    🏗️ Building: Reliable & Scalable Backend Systems
++ [ACTIVE]    🔌 Engineering: APIs, Services & System Integrations
++ [ACTIVE]    ⚡ Optimizing: Performance, Concurrency & Async Workflows
++ [ACTIVE]    🗄️ Exploring: Database Design & Data Management
++ [ACTIVE]    🧪 Improving: Code Quality, Testing & System Reliability
+! [PENDING]   🐳 Mastering: Deployment, Monitoring & System Operations
+! [PENDING]   📐 Leveling Up: System Design & Software Architecture
+- [LOCKED]    👑 BOSS FIGHT: Become a Well-Rounded Backend Engineer
+```
+
+<div align="center">
+
+| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
+|:--|:--|:--|
+| 🏗️ Backend Development | `████████░░` | **80%** |
+| 🔌 API Design & Integration | `████████░░` | **80%** |
+| 🗄️ Database & Data Modeling | `███████░░░` | **70%** |
+| ⚡ Performance & Concurrency | `███████░░░` | **70%** |
+| 🧪 Testing & Code Quality | `██████░░░░` | **60%** |
+| 🐳 DevOps & Deployment | `██████░░░░` | **60%** |
+| 📐 System Design | `█████░░░░░` | **50%** |
+| ☕ Caffeine | `██████████` | **MAX** |
+
+</div>
+
+---
+
+## 🎧 `> now_playing --mode=focus`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+
+</div>
+
+---
+
+## 📡 `> ping --connect`
+
+<div align="center">
+
+<a href="https://github.com/phambaophuc"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
+<a href="mailto:pb.phuc2706@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+
+</div>
+
+<!-- badge-auto: badge-pr-1 pr1 -->
+
+<p align="center"><sub>Pham Bao Phuc</sub></p>
